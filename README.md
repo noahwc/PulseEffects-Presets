@@ -23,7 +23,7 @@ It currently contains:
 # Installation
 The `install.sh` script will try to install the presets automatically, just fire up a terminal and run the command:
 ```shell
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/JackHack96/PulseEffects-Presets/master/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/noahwc/PulseEffects-Presets/master/install.sh)"
 ```
 **NOTE**: the script requires `curl` to be installed. Ubuntu doesn't shipt with curl installed by default, so you have to first run
 ```shell
