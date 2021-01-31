@@ -525,14 +525,14 @@
             "stereo-phase": "0"
         },
         "convolver": {
-            "state": "true",
+            "state": "false",
             "input-gain": "-2",
             "output-gain": "0",
             "kernel-path": "\/home\/noah\/.config\/PulseEffects\/irs\/Dolby ATMOS ((128K MP3)) 1.Default.irs",
             "ir-width": "100"
         },
         "crystalizer": {
-            "state": "false",
+            "state": "true",
             "aggressive": "false",
             "input-gain": "0",
             "output-gain": "0",
